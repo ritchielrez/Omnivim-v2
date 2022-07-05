@@ -59,6 +59,7 @@ return packer.startup(function(use)
 
   -- Colorschemes
   use { "folke/tokyonight.nvim", commit = "8223c970677e4d88c9b6b6d81bda23daf11062bb" }
+  use { "tiagovla/tokyodark.nvim", commit = "e505c2bf88ef0e3fcb2c46195baacd0fcbe79d6f" }
   use { "lunarvim/darkplus.nvim", commit = "2584cdeefc078351a79073322eb7f14d7fbb1835" }
 
   -- cmp plugins
