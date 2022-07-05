@@ -1,7 +1,9 @@
 vim.g.tokyonight_style = "night"
 vim.g.tokyonight_italic_keywords = false
 
-local colorscheme = "tokyonight"
+vim.g.tokyodark_enable_italic = false
+
+local colorscheme = "tokyodark"
 
 local status_ok, _ = pcall(vim.cmd, "colorscheme " .. colorscheme)
 
