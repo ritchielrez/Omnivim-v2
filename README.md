@@ -1,6 +1,6 @@
 # A Basic Stable IDE config for Neovim
 
-## WARNING!!: This config seems to have some serious performance issues
+## WARNING!! This config seems to have some serious performance issues
 
 > Why does this repo exist?
 
